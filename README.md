@@ -9,12 +9,10 @@
 This is the simple application to send/receive the the notification to/from the specified users on occurence of certain task.
 
 We can use this api in any application to notify users or admin on occurence of specified task.
-
 <br/>
 
 ### Features : 
 * Sending and Receiving of a notification
-
 <br/>
 
 ### Built with : 
@@ -24,7 +22,6 @@ We can use this api in any application to notify users or admin on occurence of 
 * [![Express.js][Express.js]][Express-url]
 
 * [![Node.js][Node.js]][Node-url]
-
 <br/>
 <br/>
 
@@ -58,14 +55,13 @@ __Installation__
    node server.js
    ```
 <br/>
-<br/>
 
 __Implementation in other parent application__
 <br/>
 
 1. Go inside the Parent Application
 
-2. Instal "node-rest-client"
+2. Install "node-rest-client"
 
 3. Create a file name called "notificationClient.js" (this is user_defined name). And paste the below code in the file.
    ```javascript
