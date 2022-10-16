@@ -13,7 +13,6 @@ We can use this api in any application to notify users or admin on occurence of 
 
 ### Features : 
 * Sending and Receiving of a notification
-<br/>
 
 ### Built with : 
 
